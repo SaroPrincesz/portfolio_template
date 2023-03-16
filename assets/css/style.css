@@ -1,0 +1,176 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.primary_heading{
+    background-color: rgb(245, 243, 243);
+    display: flex;
+    padding: 10px;
+}
+.primary_name{
+    width: 20rem;
+    font-size: 2rem;
+    text-align: center;
+}
+.first_name{
+    color: rgb(127, 127, 206);
+}
+.last_name{
+    color: palevioletred;
+}
+.navigation{
+    width: 60rem;
+    text-align: center;
+}
+.list{
+    list-style: none;
+}
+.list_item{
+    display: inline;
+}
+.anchor{
+    padding: 5px;
+    font-size: 1.3rem;
+    margin: 2.5rem;
+    color: black;
+    text-decoration: none;
+}
+ .anchor:hover{
+    color: palevioletred;
+}
+.container{
+    display: flex;
+    padding: 6rem;
+}
+.home_text{
+    width: 35rem;
+}
+.heading{
+    font-size: 3rem;
+}
+.home_para{
+    width: 30rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.button{
+    display: flex;
+}
+.here{
+    background-color: rgb(127, 127, 206);
+    border-radius: 5rem;
+    cursor: pointer;
+    padding: .8rem;
+    margin: .5rem;
+    color: white;
+}
+.head_anchor, .skill_anchor{
+    text-decoration: none;
+    color: black;
+    margin-top: 1.5rem;
+    margin-left: 2rem;
+}
+.home_image{
+    width: 35rem;
+}
+.home_style{
+    width: 22rem;
+    height: 22rem;
+    border-radius: 25rem;
+    background: linear-gradient(palevioletred, white);
+    position: absolute;
+}
+.image{
+    position: relative;
+    width: 15rem;
+    padding-top: 10rem;
+}
+.about{
+    background-color: palevioletred;
+    color: white;
+}
+.about_text{
+    width: 30rem;
+    padding: 3rem;
+}
+.text{
+    font-size: 2rem;
+    margin-top: 1rem;
+}
+.about_para{
+    margin-top: 3rem;
+    font-size: 1rem;
+    margin-bottom: 3rem;
+}
+.about_anchor{
+    text-decoration: none;
+    color: white;
+}
+.about_question{
+    width: 30rem;
+    padding: 3rem;
+}
+.skill{
+    display: flex;
+}
+.skill_container{
+    width: 72.3rem;
+    padding: 4rem;
+}
+.skill_heading{
+    padding: .8rem;
+    padding-top: 1rem;
+    /* background-color: aquamarine; */
+    text-align: center;
+}
+.skill_title{
+    padding: 18px;
+}
+.skill_grid{
+    display: flex;
+}
+.skills{
+    width: 15rem;
+    background-color: rgb(223, 221, 221);
+    margin: 2rem;
+    padding: 1rem;
+    margin-left: 7rem;
+}
+.learn_more{
+    padding-top: 20px;
+}
+.skill_anchor:hover{
+    color: white;
+}
+.skills:hover{
+    background-color: palevioletred;
+    color: white;
+}
+.primary_footer{
+    background-color: palevioletred;
+    color: white;
+}
+.contact_information{
+    width: 15rem;
+    padding: 5rem;
+    margin-left: 4in;
+    font-size: 1.5rem;
+    text-align: center;
+}
+.foot_head{
+    margin: 10px;
+    font-size: 1.2rem;
+}
+.link_paragraph{
+    margin: 20px;
+}
+.contact_anchor{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(71, 71, 177);
+    padding: 10px;
+    /* margin: 4rem; */
+    border-radius: 50px;
+}
+
+
